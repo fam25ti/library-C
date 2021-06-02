@@ -1,2 +1,2 @@
 # library-C
-path of files are relative.
+path of files are absolute.
